@@ -8,8 +8,9 @@ Skills: HTML, CSS, JavaScript
 - 🔭 I’m currently working on Her Power Project 
 - 🌱 I’m currently learning Frontend, Backend, Full-Stack, UI/UX 
 - 👯 I’m looking to collaborate on JavaScript 
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwind, PHP 
-
+- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwind. 
+- 📄 Know about my experience https://github.com/aminajunnattuha
+- ⚡ Fun fact I Think I'm Serious
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aminajunnattuha)  
 
